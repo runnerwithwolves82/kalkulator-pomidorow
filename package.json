@@ -2,13 +2,13 @@
   "name": "kalkulator-pomidorowy",
   "version": "1.0.0",
   "description": "Kalkulator pomidorowy balkonowy",
-  "main": "index.js",  // Ten plik nie jest teraz ważny, ale musi być
+  "main": "index.js",
   "scripts": {
-    "start": "npx serve ."  // Komenda startowa - serwuje pliki statyczne
+    "start": "npx serve ."
   },
-  "author": "Runner Wolf", // Wpisz swoje imię i nazwisko
+  "author": "Runner Wolf",
   "license": "MIT",
   "dependencies": {
-    "serve": "^14.2.1" // Dodajemy zależność 'serve'
+    "serve": "^14.2.1"
   }
 }
